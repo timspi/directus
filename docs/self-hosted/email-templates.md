@@ -18,7 +18,7 @@ want!
 /templates/<template-name>.liquid
 ```
 
-To replace a system template with your own, simply name it `password-reset` or `user-invitation` for the password reset
+To replace a system template with your own, simply name it `password-reset`, `user-registration` or `user-invitation` for the password reset, user registration (email verification)
 or user invite emails respectively.
 
 ::: tip Variables
